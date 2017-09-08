@@ -1,0 +1,2 @@
+# seo
+sitemap.js
